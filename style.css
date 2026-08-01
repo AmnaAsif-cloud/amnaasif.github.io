@@ -1197,7 +1197,7 @@ section h2{
 
 #resume h2 {
 
-    
+    color:white;
 
     font-size:38px;
 
@@ -1297,6 +1297,7 @@ section h2{
     box-shadow:
 
     0 25px 50px rgba(56,189,248,.5);
+
 
 
 }
