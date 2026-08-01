@@ -1208,7 +1208,7 @@ section h2{
 
 
 #resume p {
-    background: transparent;
+    
     color: white;
     padding: 0;
     border-radius: 0;
@@ -1489,7 +1489,7 @@ section h2{
 
 .footer-content h3 {
     font-size:24px;
-    margin-bottom:10px;
+    margin-bottom:100px;
 }
 
 
