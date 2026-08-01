@@ -1207,20 +1207,14 @@ section h2{
 
 
 
-#resume p {
-
-    color:#dbeafe;
-
-    font-size:18px;
-
-    margin:20px auto 35px;
-
-    max-width:600px;
-
-    position:relative;
-
+#.resume p {
+    background: transparent;
+    color: white;
+    padding: 0;
+    border-radius: 0;
+    max-width: 600px;
+    margin: 20px auto;
 }
-
 
 
 /* Resume download button */
@@ -1483,6 +1477,12 @@ section h2{
     text-align:center;
     color:white;
     margin-top:50px;
+}
+.footer p {
+    background: transparent;
+    color: #d8e2ff;
+    padding: 0;
+    border-radius: 0;
 }
 
 
