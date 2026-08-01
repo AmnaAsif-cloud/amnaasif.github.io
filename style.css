@@ -1207,7 +1207,7 @@ section h2{
 
 
 
-#.resume p {
+#resume p {
     background: transparent;
     color: white;
     padding: 0;
@@ -1478,13 +1478,14 @@ section h2{
     color:white;
     margin-top:50px;
 }
-.footer p {
-    background: transparent;
-    color: #d8e2ff;
-    padding: 0;
-    border-radius: 0;
+.footer p,
+.footer-content p {
+    background:transparent !important;
+    color:#d8e2ff;
+    padding:0 !important;
+    border-radius:0 !important;
+    box-shadow:none !important;
 }
-
 
 .footer-content h3 {
     font-size:24px;
@@ -1492,12 +1493,7 @@ section h2{
 }
 
 
-.footer-content p {
-    color:#d8e2ff;
-    font-size:14px;
-    max-width:500px;
-    margin:10px auto;
-}
+
 
 
 .footer-links {
