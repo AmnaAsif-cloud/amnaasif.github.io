@@ -1474,7 +1474,7 @@ section h2{
 
 
 }
-footer {
+#footer {
 
     width: 100%;
 
@@ -1486,6 +1486,7 @@ footer {
        padding-bottom: 100px;
 
     background: #0f172a;
+   
 
     color: #cbd5e1;
 
@@ -1500,17 +1501,17 @@ footer {
 }
 
 
-footer p {
+.footer p {
 
     margin: 0;
-
+color: #475569;
     line-height: 1.5;
 
 }
 
 
-footer a {
-
+.footer a {
+color: #475569;
     color: #38bdf8;
 
     text-decoration: none;
@@ -1518,7 +1519,7 @@ footer a {
 }
 
 
-footer a:hover {
+.footer a:hover {
 
     text-decoration: underline;
 
