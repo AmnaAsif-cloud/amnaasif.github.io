@@ -1473,11 +1473,17 @@ section h2{
     font-size:25px;
 
 
-}footer {
+}
+footer {
 
     width: 100%;
 
     padding: 15px 8%;
+    height: 50px;  
+   left: 0;
+  bottom: 0;
+   flex: 1
+       padding-bottom: 100px;
 
     background: #0f172a;
 
