@@ -1479,6 +1479,10 @@ section h2{
 footer {
 
     width:100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+   z-index: 1000; 
 
     margin:0;
    padding: 20px 5px;
