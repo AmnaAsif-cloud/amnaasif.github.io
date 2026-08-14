@@ -1619,6 +1619,48 @@ height:400px;
     opacity:.8;
 
 }
+/* =================================
+   FIX PROJECT TEXT VISIBILITY
+================================= */
+
+.project-card {
+    background: #ffffff;
+    color: #172033;
+}
+
+/* Project title */
+.project-card h3,
+.project-card h2 {
+    color: #172033 !important;
+}
+
+/* Project description */
+.project-card p {
+    color: #4b5563 !important;
+}
+
+/* "What I did" text */
+.project-card strong,
+.project-card .label {
+    color: #2563eb !important;
+}
+
+/* Technology tags */
+.project-card span {
+    color: #2563eb !important;
+}
+
+/* Project button */
+.project-card .project-btn,
+.project-card a {
+    color: #ffffff !important;
+}
+
+/* Keep button text white */
+.project-card .project-btn:hover,
+.project-card a:hover {
+    color: #ffffff !important;
+}
 /* =========================
  MOBILE
 ========================= */
